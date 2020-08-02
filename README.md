@@ -3,7 +3,7 @@
 I am **Iqbal,** a software engineer based in Malaysia. I enjoy building things and thus far had built some web-based systems. Apart of writing codes, I loves to read and follow latest updates on IT news, and keep improving myself to be better in this industry.
 
 
-**Backend:** Laravel, Yii2, SQL, WordPress, Joomla
+**Backend:** Laravel, Yii2, SQL
 
 **Frontend:** Vue.js, HTML5, CSS3, Bootstrap
 
