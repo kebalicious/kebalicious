@@ -11,8 +11,6 @@ ___
 
 You can find me on:
 
-<a href="https://twitter.com/miqbxlhxkm"><img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="28"></a>&nbsp;
 <a href="https://www.linkedin.com/in/miqbalhakim05"><img src="https://image.flaticon.com/icons/svg/733/733561.svg" width="28"></a>&nbsp;
-<a href="https://www.instagram.com/miqbxlhxkm"><img src="https://image.flaticon.com/icons/svg/733/733558.svg" width="28"></a>&nbsp;
 <a href="https://stackoverflow.com/users/8477097/muhamad-iqbal"><img src="https://image.flaticon.com/icons/svg/2111/2111628.svg" width="28"></a>&nbsp;
 <a href="https://dev.to/miqbalhakim"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="28"></a>
