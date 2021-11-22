@@ -1,4 +1,4 @@
-### Hello there, ahlan wa sahlan! 👋
+### Hello there, ahlan wa sahlan! <img src="https://raw.githubusercontent.com/miqbalhakim/miqbalhakim/master/wave.gif" width="30px"> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=miqbalhakim.miqbalhakim">
 
 #### Peace be upon you ❤️
 
