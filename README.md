@@ -7,7 +7,7 @@ I am **Iqbal,** a software developer based in Malaysia. I enjoy building things 
 
 **Backend:** Laravel, Yii2, MariaDB
 
-**Frontend:** Vue.js, HTML5, CSS3, Bootstrap
+**Frontend:** Vue.js, HTML5, CSS3, Bootstrap 5, Tailwind CSS 💅🏻
 
 **OMW:** Flutter, MongoDB
 
