@@ -19,4 +19,4 @@ You can find me on:
 
 <a href="https://www.linkedin.com/in/miqbalhakim05">LinkedIn</a>&nbsp;|&nbsp;<a href="https://miqbalhakim.github.io">Portfolio</a>&nbsp;
 
-Psstt.. I code on  macOS
+<sub><sup>Psstt.. I code on  macOS</sub></sup>
