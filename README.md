@@ -9,9 +9,9 @@ I am **Kebal,** a software developer based in Malaysia 🇲🇾. I enjoy 🧶�
 
 **Frontend:** Vue.js, TailwindCSS, HTML5, CSS3, Bootstrap 5, Alpine.js 💅🏻
 
-**Just Learn the Basic:** Next.js, Flutter 🙇🏻‍♂️
+<!-- **Just Learn the Basic:** Nuxt.js, Flutter 🙇🏻‍♂️ -->
 
-Looking forward to deep learn in Flutter, and AWS 🤔
+<!-- Looking forward to deep learn in Flutter, and AWS 🤔 -->
 
 ___
 
