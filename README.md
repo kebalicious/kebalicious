@@ -19,7 +19,7 @@ You can find me on:
 
 <a href="https://www.linkedin.com/in/miqbalhakim05">LinkedIn</a>&nbsp;|&nbsp;<a href="https://kebal.xyz">Portfolio</a>&nbsp;
 
-![Fancy logo](https://github.com/miqbalhakim/assets/blob/main/images/121509.png#gh-dark-mode-only)
-![Fancy logo](https://github.com/miqbalhakim/assets/blob/main/images/142369.png#gh-light-mode-only)
+![Fancy logo](https://github.com/miqbalhakim/assets/blob/main/images/121509.png#gh-light-mode-only)
+![Fancy logo](https://github.com/miqbalhakim/assets/blob/main/images/142369.png#gh-dark-mode-only)
 
 <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" fill="blue" style="background-color:blue" width="32" height="32">
