@@ -17,14 +17,28 @@ ___
 
 You can find me on:
 
-<a href="https://www.linkedin.com/in/miqbalhakim05">LinkedIn</a>&nbsp;|&nbsp;<a href="https://kebal.xyz">Portfolio</a>&nbsp;
 
-![Fancy logo](./li-light.png#gh-dark-mode-only)
-![Fancy logo](./li-dark.png#gh-light-mode-only)
-
-```
-![Fancy logo](./li-light.png#gh-dark-mode-only)
-![Fancy logo](./li-dark.png#gh-light-mode-only)
+```html
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefanjudis/github-light-dark-image-example/main/dark.png">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/stefanjudis/github-light-dark-image-example/main/light.png">
+</picture>
 ```
 
-<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" fill="blue" style="background-color:blue" width="32" height="32">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefanjudis/github-light-dark-image-example/main/dark.png">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/stefanjudis/github-light-dark-image-example/main/light.png">
+</picture>
+
+
+```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.png">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./light.png">
+</picture>
+```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.png">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./light.png">
+</picture>
