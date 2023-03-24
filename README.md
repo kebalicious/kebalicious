@@ -20,6 +20,27 @@ You can find me on:
 <a href="#" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./linkedin-light.png">
-    <img alt="Text changing depending on mode. Light: 'Lights on!' Dark: 'Lights off!'" src="./linkedin-dark.png" width="36" height="36">
+    <img alt="Text changing depending on mode. Light: 'Lights on!' Dark: 'Lights off!'" src="./linkedin-dark.png" width="32" height="32">
+  </picture>
+</a>
+
+<a href="#" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./portfolio-light.png">
+    <img alt="Text changing depending on mode. Light: 'Lights on!' Dark: 'Lights off!'" src="./portfolio-dark.png" width="32" height="32">
+  </picture>
+</a>
+
+<a href="#" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./telegram-light.png">
+    <img alt="Text changing depending on mode. Light: 'Lights on!' Dark: 'Lights off!'" src="./telegram-dark.png" width="32" height="32">
+  </picture>
+</a>
+
+<a href="#" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./spotify-light.png">
+    <img alt="Text changing depending on mode. Light: 'Lights on!' Dark: 'Lights off!'" src="./spotify-dark.png" width="32" height="32">
   </picture>
 </a>
