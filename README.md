@@ -23,6 +23,6 @@ You can find me on:
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./li-light.png">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./li-dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./linkedin-light.png">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./linkedin-dark.png">
 </picture>
