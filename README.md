@@ -21,3 +21,8 @@ You can find me on:
   <source media="(prefers-color-scheme: dark)" srcset="./dark.png">
   <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./light.png">
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./li-light.png">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./li-dark.png">
+</picture>
