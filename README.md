@@ -17,30 +17,34 @@ ___
 
 You can find me on:
 
-<a href="#" target="_blank">
+<a href="https://www.linkedin.com/in/miqbalhakim" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./linkedin-light.png">
-    <img alt="Text changing depending on mode. Light: 'Lights on!' Dark: 'Lights off!'" src="./linkedin-dark.png" width="32" height="32" style="margin-right:8px">
+    <img alt="LinkedIn" src="./linkedin-dark.png" width="32" height="32" style="margin-right:8px">
   </picture>
 </a>
 
-<a href="#" target="_blank">
+<a href="https://www.kebal.xyz" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./portfolio-light.png">
-    <img alt="Text changing depending on mode. Light: 'Lights on!' Dark: 'Lights off!'" src="./portfolio-dark.png" width="32" height="32" style="margin-right:8px">
+    <img alt="Portfolio" src="./portfolio-dark.png" width="32" height="32" style="margin-right:8px">
   </picture>
 </a>
 
-<a href="#" target="_blank">
+<a href="https://t.me/kebal" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./telegram-light.png">
-    <img alt="Text changing depending on mode. Light: 'Lights on!' Dark: 'Lights off!'" src="./telegram-dark.png" width="32" height="32" style="margin-right:8px">
+    <img alt="Telegram" src="./telegram-dark.png" width="32" height="32" style="margin-right:8px">
   </picture>
 </a>
 
-<a href="#" target="_blank">
+<a href="https://user.spotify.com/" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./spotify-light.png">
-    <img alt="Text changing depending on mode. Light: 'Lights on!' Dark: 'Lights off!'" src="./spotify-dark.png" width="32" height="32" style="margin-right:8px">
+    <img alt="spotify" src="./spotify-dark.png" width="32" height="32" style="margin-right:8px">
   </picture>
 </a>
+
+<picture>
+  <img src="./my.png" height="32">
+</picture>
