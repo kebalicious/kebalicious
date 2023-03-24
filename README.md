@@ -24,5 +24,5 @@ You can find me on:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./linkedin-light.png">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./linkedin-dark.png">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./linkedin-dark.png" width="24" height="24">
 </picture>
