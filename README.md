@@ -1,4 +1,6 @@
-### Hi there, ahlan wa sahlan! <img src="https://github.com/miqbalhakim/miqbalhakim/blob/master/wave.gif" width="30px"> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=miqbalhakim.miqbalhakim">
+### Hi there, ahlan wa sahlan!
+<img src="./assets/wave.gif" width="30px">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=miqbalhakim.miqbalhakim">
 
 #### Peace be upon you ❤️
 
@@ -20,31 +22,31 @@ You can find me on:
 <a href="https://www.linkedin.com/in/miqbalhakim" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./linkedin-light.png">
-    <img alt="LinkedIn" src="./linkedin-dark.png" width="32" height="32" style="margin-right:8px">
+    <img alt="LinkedIn" src="./assets/linkedin-dark.png" width="32" height="32" style="margin-right:8px">
   </picture>
 </a>
 
 <a href="https://www.kebal.xyz" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./portfolio-light.png">
-    <img alt="Portfolio" src="./portfolio-dark.png" width="32" height="32" style="margin-right:8px">
+    <img alt="Portfolio" src="./assets/portfolio-dark.png" width="32" height="32" style="margin-right:8px">
   </picture>
 </a>
 
 <a href="https://t.me/kebal" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./telegram-light.png">
-    <img alt="Telegram" src="./telegram-dark.png" width="32" height="32" style="margin-right:8px">
+    <img alt="Telegram" src="./assets/telegram-dark.png" width="32" height="32" style="margin-right:8px">
   </picture>
 </a>
 
 <a href="https://user.spotify.com/" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./spotify-light.png">
-    <img alt="spotify" src="./spotify-dark.png" width="32" height="32" style="margin-right:8px">
+    <img alt="spotify" src="./assets/spotify-dark.png" width="32" height="32" style="margin-right:8px">
   </picture>
 </a>
 
 <picture>
-  <img src="./my.png" height="32">
+  <img src="./assets/my.png" height="32">
 </picture>
