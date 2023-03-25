@@ -1,6 +1,4 @@
-### Hi there, ahlan wa sahlan!
-<img src="./assets/wave.gif" width="30px">
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=miqbalhakim.miqbalhakim">
+### Hi there, ahlan wa sahlan! <img src="./assets/wave.gif" width="30px"><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=miqbalhakim.miqbalhakim">
 
 #### Peace be upon you ❤️
 
@@ -21,28 +19,28 @@ You can find me on:
 
 <a href="https://www.linkedin.com/in/miqbalhakim" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./linkedin-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/linkedin-light.png">
     <img alt="LinkedIn" src="./assets/linkedin-dark.png" width="32" height="32" style="margin-right:8px">
   </picture>
 </a>
 
 <a href="https://www.kebal.xyz" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./portfolio-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio-light.png">
     <img alt="Portfolio" src="./assets/portfolio-dark.png" width="32" height="32" style="margin-right:8px">
   </picture>
 </a>
 
 <a href="https://t.me/kebal" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./telegram-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/telegram-light.png">
     <img alt="Telegram" src="./assets/telegram-dark.png" width="32" height="32" style="margin-right:8px">
   </picture>
 </a>
 
 <a href="https://user.spotify.com/" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./spotify-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/spotify-light.png">
     <img alt="spotify" src="./assets/spotify-dark.png" width="32" height="32" style="margin-right:8px">
   </picture>
 </a>
