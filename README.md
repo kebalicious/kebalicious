@@ -1,4 +1,4 @@
-### Hi there, ahlan wa sahlan! <img src="./assets/wave.gif" width="30px"><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=miqbalhakim.miqbalhakim">
+### Hi there, ahlan wa sahlan! <img src="./assets/wave.gif" width="30px">
 
 #### Peace be upon you ❤️
 
