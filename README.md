@@ -46,5 +46,5 @@ You can find me on:
 </a>
 
 <picture>
-  <img src="./assets/my.png" height="34">
+  <img src="./assets/my.png" height="34" style="margin-top:8px;padding-top:8px;">
 </picture>
