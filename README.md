@@ -12,23 +12,23 @@ If you need something to be done tomorrow, <a href="#contact">hit me up today</a
     
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JS](https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
    
 #### 🎨 Frameworks
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap%205%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-%2371B7C7.svg?style=for-the-badge&logo=alpinedotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2306D17B.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap%205%20-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-%238BC0D0.svg?style=for-the-badge&logo=alpinedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
     
 #### 💾 Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
     
 #### 🎛️ Application and Tools
@@ -44,7 +44,13 @@ If you need something to be done tomorrow, <a href="#contact">hit me up today</a
 
 ## <img src="https://media1.giphy.com/media/lQ6CBvgBn7QEbb0Va8/giphy.gif" width ="25"><b> Contact</b>
 
-<a href="https://www.linkedin.com/in/miqbalhakim" target="_blank">
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white 'LinkedIn')](https://linkedin.com/in/miqbalhakim)
+[![Website](https://img.shields.io/badge/kebal-%23000000.svg?color=000000&style=for-the-badge&logo=keras&logoColor=white 'Website')](https://kebal.xyz)
+[![Telegram](https://img.shields.io/badge/telegram-%2326A5E4.svg?color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white 'Telegram')](https://t.me/kebal)
+[![AppleMusic](https://img.shields.io/badge/apple%20music-%23FA243C.svg?color=FA243C&style=for-the-badge&logo=applemusic&logoColor=white 'Apple Music')](https://music.apple.com/profile/kebal)
+[![CodePen](https://img.shields.io/badge/codepen-%23000000.svg?color=000000&style=for-the-badge&logo=codepen&logoColor=white 'CodePen')](https://codepen.io/kebal)
+
+<!-- <a href="https://www.linkedin.com/in/miqbalhakim" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/linkedin-light.png">
     <img alt="LinkedIn" src="./assets/linkedin-dark.png" width="40" height="40" style="margin-right:8px">
@@ -75,3 +81,4 @@ If you need something to be done tomorrow, <a href="#contact">hit me up today</a
 <picture>
   <img src="./assets/my.png" height="42">
 </picture>
+ -->
