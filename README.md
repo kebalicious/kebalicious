@@ -23,7 +23,7 @@ If you need something to be done tomorrow, <a href="#contact">hit me up today</a
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap%205%20-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-%238BC0D0.svg?style=for-the-badge&logo=alpinedotjs&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-%238BC0D0.svg?style=for-the-badge&logo=alpinedotjs&logoColor=black)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
     
 #### 💾 Databases
@@ -36,6 +36,8 @@ If you need something to be done tomorrow, <a href="#contact">hit me up today</a
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Brew](https://img.shields.io/badge/homebrew-%23FBB040.svg?style=for-the-badge&logo=homebrew&logoColor=black)
+![Laragon](https://img.shields.io/badge/laragon-%230E83CD.svg?style=for-the-badge&logo=laragon&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Mac](https://img.shields.io/badge/Mac-00000F?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
