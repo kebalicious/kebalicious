@@ -4,7 +4,7 @@
 
 I am **Kebal,** a software developer based in 🇲🇾. I enjoy building things and thus far had built many web-based systems. Yeah, TBH I more enjoy doing 🪄 frontend and UI/UX things! Apart of writing codes, I love to read and keep myself up-to-date with latest IT news, and consistantly improving myself to be better day-by-day in this awesome industry. 
 
-If you need something to be done tomorrow, <a href="#contact">hit me up today</a>.
+If you need something to be done tomorrow, <a href="#-contact">hit me up today</a>.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
