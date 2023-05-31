@@ -1,12 +1,12 @@
-# Hi there, ahlan wa sahlan! <img src="./assets/wave.gif" width="30px">
+# Hi there, ahlan wa sahlan! <img src="https://media0.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif?ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">
 
-### Peace be upon you ❤️
+### Peace be upon you <img src="https://media0.giphy.com/media/AQyuyk6LiCtT6Fcuim/giphy.gif?ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25">
 
-I am **Kebal,** a software developer based in 🇲🇾. I enjoy building things and thus far had built many web-based systems. Yeah, TBH I more enjoy doing 🪄 frontend and UI/UX things! Apart of writing codes, I love to read and keep myself up-to-date with latest IT news, and consistantly improving myself to be better day-by-day in this awesome industry. 
+I am **Kebal,** a software developer based in <img src="https://i.giphy.com/media/gfYdWq3wmRCHcy4lwQ/giphy.webp" width="25">. I enjoy building things and thus far had built many web-based systems. Yeah, TBH I more enjoy doing <img src="https://media0.giphy.com/media/UyfNLwd5pjDzbwHwbv/giphy.gif?ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20"> frontend and UI/UX <img src="https://media0.giphy.com/media/UyfNLwd5pjDzbwHwbv/giphy.gif?ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20"> things! Apart of writing codes, I love to read and keep myself up-to-date with latest IT news, and consistantly improving myself to be better day-by-day in this awesome industry <img src="https://media0.giphy.com/media/mO9r4shu7TyK1LD7n1/giphy.gif?ep=v1_stickers_search&rid=giphy.gif&ct=s" width="15">. 
 
 If you need something to be done tomorrow, <a href="#-contact">hit me up today</a>.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 
 #### 📋 Languages
     
@@ -44,7 +44,7 @@ If you need something to be done tomorrow, <a href="#-contact">hit me up today</
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
-## <img src="https://media1.giphy.com/media/lQ6CBvgBn7QEbb0Va8/giphy.gif" width ="25"><b> Contact</b>
+## <img src="https://media1.giphy.com/media/lQ6CBvgBn7QEbb0Va8/giphy.gif" width="25"><b> Contact</b>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white 'LinkedIn')](https://linkedin.com/in/miqbalhakim)
 [![Website](https://img.shields.io/badge/kebal-%23000000.svg?color=000000&style=for-the-badge&logo=keras&logoColor=white 'Website')](https://kebal.xyz)
