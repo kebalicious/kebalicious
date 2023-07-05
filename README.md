@@ -49,8 +49,10 @@ If you need something to be done tomorrow, <a href="#-contact">hit me up today</
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white 'LinkedIn')](https://linkedin.com/in/miqbalhakim)
 [![Website](https://img.shields.io/badge/kebal-%23000000.svg?color=000000&style=for-the-badge&logo=keras&logoColor=white 'Website')](https://kebal.xyz)
 [![Telegram](https://img.shields.io/badge/telegram-%2326A5E4.svg?color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white 'Telegram')](https://t.me/kebal)
-[![AppleMusic](https://img.shields.io/badge/apple%20music-%23FA243C.svg?color=FA243C&style=for-the-badge&logo=applemusic&logoColor=white 'Apple Music')](https://music.apple.com/profile/kebal)
+[![Spotify](https://img.shields.io/badge/spotify-%231DB954.svg?color=1DB954&style=for-the-badge&logo=spotify&logoColor=white 'Spotify')](https://open.spotify.com/user/31x5zoshyxk76ldg2kz6y6ieflhm?si=a1f8cf71cc924a49)
+[![YouTube Music](https://img.shields.io/badge/youtubemusic-%23FF0000.svg?color=FF0000&style=for-the-badge&logo=youtubemusic&logoColor=white 'YouTube Music')](https://music.youtube.com/channel/UCouJr-8pBvSGOmKI3fnNq0g?feature=share)
 [![CodePen](https://img.shields.io/badge/codepen-%23000000.svg?color=000000&style=for-the-badge&logo=codepen&logoColor=white 'CodePen')](https://codepen.io/kebal)
+<!-- [![AppleMusic](https://img.shields.io/badge/apple%20music-%23FA243C.svg?color=FA243C&style=for-the-badge&logo=applemusic&logoColor=white 'Apple Music')](https://music.apple.com/profile/kebal) -->
 
 <!-- <a href="https://www.linkedin.com/in/miqbalhakim" target="_blank">
   <picture>
