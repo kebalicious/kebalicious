@@ -4,7 +4,7 @@
 
 I am **Kebal,** a software developer based in <img src="https://i.giphy.com/media/gfYdWq3wmRCHcy4lwQ/giphy.webp" width="25">. I enjoy building things and thus far had built many web-based systems. 
 
-If you need something to be done tomorrow, <a href="#-contact">hit me up today</a>.
+If you need something to be done tomorrow, <a href="#-how-to-contact-me">hit me up today</a>.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Tools I'm Using</b>
 
