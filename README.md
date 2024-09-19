@@ -15,7 +15,7 @@ If you need something to be done tomorrow, <a href="#-how-to-contact-me">hit me 
 ![JS](https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-%23F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
    
 #### 🎨 Frameworks
 
