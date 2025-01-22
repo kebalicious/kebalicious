@@ -52,8 +52,8 @@ If you need something to be done tomorrow, <a href="#-how-to-contact-me">hit me 
 
 ## <img src="https://media1.giphy.com/media/lQ6CBvgBn7QEbb0Va8/giphy.gif" width="25"><b> How to Contact Me?</b>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white 'LinkedIn')](https://linkedin.com/in/miqbalhakim)
-[![Website](https://img.shields.io/badge/kebal-%23000000.svg?color=000000&style=for-the-badge&logo=keras&logoColor=white 'Website')](https://miqbalhakim.github.io)
-[![Telegram](https://img.shields.io/badge/telegram-%2326A5E4.svg?color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white 'Telegram')](https://t.me/miqbxlhxkm)
+[![LinkedIn](https://img.shields.io/badge/linkedin-007EBB.svg?style=for-the-badge&logo=data:image/svg+xml;base64,CjxzdmcgaGVpZ2h0PSI3MiIgdmlld0JveD0iMCAwIDcyIDcyIiB3aWR0aD0iNzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGQ9Ik04IDcyaDU2YTggOCAwIDAgMCA4LThWOGE4IDggMCAwIDAtOC04SDhhOCA4IDAgMCAwLTggOHY1NmE4IDggMCAwIDAgOCA4IiBmaWxsPSIjMDA3RUJCIi8+CiAgICA8cGF0aCBkPSJNNjIgNjJINTEuMzE2VjQzLjgwMmMwLTQuOTktMS44OTYtNy43NzctNS44NDUtNy43NzctNC4yOTYgMC02LjU0IDIuOTAxLTYuNTQgNy43NzdWNjJIMjguNjMyVjI3LjMzM0gzOC45M3Y0LjY3czMuMDk2LTUuNzI5IDEwLjQ1My01LjcyOWM3LjM1MyAwIDEyLjYxNyA0LjQ5IDEyLjYxNyAxMy43Nzd6TTE2LjM1IDIyLjc5NGMtMy41MDggMC02LjM1LTIuODY0LTYuMzUtNi4zOTdTMTIuODQyIDEwIDE2LjM1IDEwczYuMzQ3IDIuODY0IDYuMzQ3IDYuMzk3LTIuODQgNi4zOTctNi4zNDggNi4zOTdNMTEuMDMyIDYyaDEwLjczNlYyNy4zMzNIMTEuMDMzeiIgZmlsbD0iI0ZGRiIvPgogIDwvZz4KPC9zdmc+Cg==&logoColor=white 'LinkedIn')](https://linkedin.com/in/miqbalhakim)
+[![Website](https://img.shields.io/badge/kebal-%23000000.svg?color=000000&style=for-the-badge&logo=keras&logoColor=white 'Website')](https://kebal.my)
+[![Telegram](https://img.shields.io/badge/telegram-%2326A5E4.svg?color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white 'Telegram')](https://t.me/kebalicious)
 [![Spotify](https://img.shields.io/badge/spotify-%231DB954.svg?color=1DB954&style=for-the-badge&logo=spotify&logoColor=white 'Spotify')](https://open.spotify.com/user/31x5zoshyxk76ldg2kz6y6ieflhm?si=a1f8cf71cc924a49)
 [![CodePen](https://img.shields.io/badge/codepen-%23000000.svg?color=000000&style=for-the-badge&logo=codepen&logoColor=white 'CodePen')](https://codepen.io/kebal)
