@@ -6,6 +6,8 @@ I am **Kebal,** a software developer based in <img src="https://i.giphy.com/medi
 
 If you need something to be done tomorrow, <a href="#-how-to-contact-me">hit me up today</a>.
 
+![Profile Views](https://komarev.com/ghpvc/?username=kebalicious&color=blue&style=flat)
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Tools I'm Using</b>
 
 #### 📋 Languages(?)
