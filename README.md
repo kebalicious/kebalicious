@@ -6,7 +6,7 @@ I enjoy building things and thus far had built many web-based systems — both f
 
 ## Get to Know About Me
 
-Hit in your console or terminal to connect with me. (Under development)
+Hit in your console or terminal to connect with me.
 ```
 npx kebal
 ```
