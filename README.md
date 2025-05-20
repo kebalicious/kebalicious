@@ -31,7 +31,7 @@ const profile = reactive({
         database: ['MySQL', 'SQLite', 'MongoDB', 'Redis', 'MariaDB'],
         devOps: ['Linux', 'GitHub Actions', 'EC2', 'S3', 'Cloudflare'],
         tools: ['Git', 'GitHub', 'Insomnia', 'Postman', 'Canva', 'Figma', 'Nginx', 'Monday.com'],
-        misc: ['REST API', 'Chrome Extensions', 'WordPress Extensions'],
+        misc: ['REST API', 'Chrome Extensions', 'WordPress Plugins'],
         os: ['macOS', 'Windows 11', 'Ubuntu'],
         architecture: ['SPA', 'MVC']
     },
