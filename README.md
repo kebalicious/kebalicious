@@ -1,12 +1,12 @@
 # Ahlan wa Sahlan <picture><img src="https://media0.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif?ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"></picture>
 ### Peace be upon you <picture><img src="https://media0.giphy.com/media/AQyuyk6LiCtT6Fcuim/giphy.gif?ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25"></picture>
 
-#### I am **Kebal**, a Software Developer based in Malaysia 🇲🇾.
-I enjoy building things and thus far had built many web-based systems — both for fun and in production.
+### I am **Kebal**, a Software Developer based in Malaysia 🇲🇾.
+I enjoy building things and have developed many web-based systems — ranging from passion projects to production environments.
 
-## Get to Know About Me
+## Get to Know Me
 
-Hit in your console or terminal to connect with me.
+Run this in your terminal to connect with me:
 ```
 npx kebal
 ```
@@ -15,29 +15,30 @@ npx kebal
 <script setup>
 import { reactive, computed, onMounted } from 'vue';
 
+// 👨‍💻 About Me
 const profile = reactive({
     name: 'Kebal',
     pronouns: 'he/him/his',
     position: 'Software Developer',
+    location: 'Malaysia 🇲🇾',
     languages: ['Malay', 'English'],
     technologies: {
         backEnd: ['Laravel', 'PHP', 'Yii2', 'WordPress'],
         frontEnd: {
             js: ['Vue.js', 'Nuxt.js', 'Alpine.js'],
-            css: ['TailwindCSS', 'Bootstrap 5', 'SCSS', 'SASS', 'CSS'],
+            css: ['TailwindCSS', 'Bootstrap 5', 'SCSS'],
         },
         mobile: ['SwiftUI'],
-        database: ['MySQL', 'SQLite', 'MongoDB', 'Redis', 'MariaDB'],
-        devOps: ['Linux', 'GitHub Actions', 'EC2', 'S3', 'Cloudflare'],
-        tools: ['Git', 'GitHub', 'Insomnia', 'Postman', 'Canva', 'Figma', 'Nginx', 'Monday.com'],
-        misc: ['REST API', 'Chrome Extensions', 'WordPress Plugins'],
-        os: ['macOS', 'Windows 11', 'Ubuntu'],
+        database: ['MySQL', 'MongoDB', 'Redis'],
+        devOps: ['Linux', 'GitHub Actions', 'EC2', 'Cloudflare'],
+        tools: ['Git', 'Postman', 'Figma', 'Nginx'],
         architecture: ['SPA', 'MVC']
     },
-    canCodeWithoutCoffee: 'no',
+    // ☕ Vital Systems
+    canCodeWithoutCoffee: false, 
 });
 
-const summary = computed(() => `${profile.name} | ${profile.position}`);
+const summary = computed(() => `${profile.name} | ${profile.position}`);
 
 onMounted(() => console.log(summary.value));
 </script>
