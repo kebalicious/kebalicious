@@ -16,18 +16,17 @@ npx kebal
 import { reactive, computed, onMounted } from 'vue';
 
 const profile = reactive({
+    name: 'Kebal',
     pronouns: 'he/him/his',
     position: 'Software Developer',
-    languages: ['Malay', 'English', 'Indonesian'],
+    languages: ['Malay', 'English'],
     technologies: {
-        backEnd: ['Laravel', 'Native PHP', 'Yii2', 'WordPress'],
+        backEnd: ['Laravel', 'PHP', 'Yii2', 'WordPress'],
         frontEnd: {
             js: ['Vue.js', 'Nuxt.js', 'Alpine.js'],
             css: ['TailwindCSS', 'Bootstrap 5', 'SCSS', 'SASS', 'CSS'],
         },
-        mobile: {
-            frontEnd: ['SwiftUI'],
-        },
+        mobile: ['SwiftUI'],
         database: ['MySQL', 'SQLite', 'MongoDB', 'Redis', 'MariaDB'],
         devOps: ['Linux', 'GitHub Actions', 'EC2', 'S3', 'Cloudflare'],
         tools: ['Git', 'GitHub', 'Insomnia', 'Postman', 'Canva', 'Figma', 'Nginx', 'Monday.com'],
