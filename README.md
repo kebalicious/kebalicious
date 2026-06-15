@@ -1,7 +1,7 @@
-# Ahlan wa Sahlan <picture><img src="https://media0.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif?ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"></picture>
-### Peace be upon you <picture><img src="https://media0.giphy.com/media/AQyuyk6LiCtT6Fcuim/giphy.gif?ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25"></picture>
+# Hey, I'm Kebal! <picture><img src="https://media0.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif?ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"></picture>
 
-### I am **Kebal**, a Software Developer based in Malaysia 🇲🇾.
+I am a Software Developer based in Malaysia 🇲🇾.
+
 I enjoy building things and have developed many web-based systems — ranging from passion projects to production environments.
 
 ## Get to Know Me
